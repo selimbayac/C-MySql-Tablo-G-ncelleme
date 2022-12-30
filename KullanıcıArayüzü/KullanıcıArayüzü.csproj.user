@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ActiveDebugProfile>CLDebug</ActiveDebugProfile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Forms\CityPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ColorTablePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CountryTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Dersler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\LoginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Notlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\StudentListPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\StudentSettingsPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

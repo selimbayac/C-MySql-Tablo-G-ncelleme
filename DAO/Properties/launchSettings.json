@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "DAO": {
+      "commandName": "Project"
+    },
+    "debugTest": {
+      "commandName": "Executable",
+      "executablePath": "E:\\Masaüstü\\VeriTabanıİslemleriOrnekProje\\KullanıcıArayüzü\\bin\\Debug\\net6.0-windows\\KullanıcıArayüzü.exe",
+      "nativeDebugging": true
+    }
+  }
+}
